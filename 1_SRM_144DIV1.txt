@@ -1,3 +1,4 @@
+val:300
 Problem Statement
 ????
 Let's say you have a binary string such as the following:
